@@ -1,1 +1,3 @@
-alo
+https://www.python.org/ - linguagem de programação.
+https://github.com/ - Local para subir os arquivos (Trabalhos) e ver as imstruções para os mesmos.
+https://code.visualstudio.com/ - IDE- Ambiente de Desenvolvimento Integrado.
