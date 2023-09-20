@@ -1,0 +1,51 @@
+var primeira = 12;
+let segunda = "casa";
+const terceiera = ["casa", "banana", 2];
+let quarta;
+
+console.log(++primeira + ": primeira: ");
+//console.log(++segunda + ": primeira: ");
+segunda += "amarela.";
+console.log(segunda + ": segunda");
+console.log("terceira: " + terceira);
+terceira = 65
+console.log(++segunda + ": primeira: ");
+terceira[15] = "13"
+console.log("terceira[18]: " + terceira[13]);
+console.log("tamanho: " + terceira.lenght);
+
+quarta = {
+  primario = 1
+  segundo "tudo"
+}
+
+console.log("quarta: " + quarta);
+console.log("quartaprimeira: " + quarta.primeira);
+
+quarta.terceira = "nada";
+console.log("quarta.terceira: " + quarta.terceira);
+
+function minha_funcao(entrada){
+  console.log ("recebi a funcao: " + entrada)
+  return entrada
+}
+
+function minha_função(entrada){
+  return entrada + 2;
+}
+
+console.log(minha_função(5))
+console.log(minha_função('1'));
+
+const minha_outra_funçao = function (entrada){
+  return entrada + 3;
+}
+
+console.log(minha_outra_funçao(5))
+console.log(minha_outra_funçao('1'))
+
+const setinha = (entrada) =>
+{ return entrada + 4; }
+
+console.log(setinha(5))
+console.log(setinha('1'));
